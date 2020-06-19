@@ -1,0 +1,4 @@
+# Project exclude paths
+/security-auth-server/target/
+/security-client-app/target/
+/security-user-server/target/
